@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nothaldir/nothaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end web developer based in Paris. Studied at [HETIC](https://www.hetic.net/), and currently working at [AKQA](https://www.akqa.com/) Paris.
 
-Here are some ideas to get you started:
+Loves to work with Vue and creating awesome design systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+
+- https://twitter.com/home 
+- https://www.linkedin.com/in/alexberneau/
+
+### Uses
+
+- Terminal:   https://hyper.is/
+- IDE: https://code.visualstudio.com/
+- Font: https://github.com/tonsky/FiraCode
+- Node version manager: https://github.com/Schniz/fnm
+- Theme: https://github.com/wesbos/cobalt2-vscode
