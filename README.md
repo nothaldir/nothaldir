@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Front-end web developer based in Paris. Studied at [HETIC](https://www.hetic.net/), and currently working at [AKQA](https://www.akqa.com/) Paris.
+Front-end web developer based in Paris. Studied at [HETIC](https://www.hetic.net/), and previously worked at [AKQA](https://www.akqa.com/) Paris.
 
 Loves to work with Vue and creating awesome design systems.
 
